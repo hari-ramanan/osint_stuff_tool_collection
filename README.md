@@ -2113,8 +2113,7 @@ Google lens is not too user friendly for investigations. But this tool will help
 | Link | Description |
 | --- | --- |
 | [apollo.io](https://www.apollo.io/) | Contains the most accurate data on 210M contacts and 35M companies. |
-| [contactout.com](https://contactout.com/) | Unlock the world's most accurate
-contact data.|
+| [contactout.com](https://contactout.com/) | Unlock the world's most accurate data with email address and phone number. |
 | [Lei.bloomberg.com](https://lei.bloomberg.com/search?.=1&.=-lastUpdateDate&.=&.=&.=%5B%5D&ts=2447821118) | search information about company by Legal Identify Number |
 | [990 finder](https://candid.org/research-and-verify-nonprofits/990-finder) | Enter the company name and select the state to get a link to download its 900 form. |
 | [Open Corporates Command Line Client (Occli)](https://github.com/rlyonheart/occli) | Gathering detailed information about company through cli. |
